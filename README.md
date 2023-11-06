@@ -20,7 +20,7 @@ Welcome to TimeSync, the epitome of modern minimalist design in the world of tim
 
 Experience TimeSync in action by visiting our [Live Demo](https://timesync.samcodes.net/).
 
-![TimeSync Preview](/timesync-preview.png)
+![TimeSync Preview](/preview.png)
 
 ## 💡 Project Inspiration
 
